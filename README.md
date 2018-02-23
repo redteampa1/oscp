@@ -1,4 +1,4 @@
-# Oscp study
+
 
 Notes of my Offensive Security Certified Professional (OSCP) study plan.
 
